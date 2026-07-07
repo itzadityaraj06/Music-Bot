@@ -1,0 +1,5 @@
+credentials.json
+botdetails.env
+__pycache__/
+*.mp3
+*.wav
